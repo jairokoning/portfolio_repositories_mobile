@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Challenge 03: React Native Concepts
+  Challenge 04: React Native Concepts
 </h3>
 
 ## :rocket: About the challenge
